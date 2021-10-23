@@ -1,0 +1,32 @@
+#title {
+    text-align: center;
+}
+
+.body {
+    background-color: rgb(196, 230, 255);
+}
+
+h3 {
+    border: 1px solid black;
+}
+
+img:hover {
+    height: 300px;   
+}
+
+ul li {
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    margin: 10px;
+}
+
+input {
+    width: 100%;
+    text-align: center;
+}
